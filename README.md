@@ -1,1 +1,7 @@
-# pruebagit
+#PREUBA GIT
+## INICIANDO EL REPOSITORIO
+´´´
+hOLA QUE ASE?
+
+
+´´´
