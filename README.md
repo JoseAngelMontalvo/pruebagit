@@ -2,7 +2,7 @@
 
 ## INICIANDO EL REPOSITORIO
 
-'''
+```
 Hola que ase?
 
-'''
+```
